@@ -1,0 +1,23 @@
+{
+    "name": "LETICIA RIBEIRO MIRANDA",
+    "email": "LETICIA-RIBEIRO98@HOTMAIL.COM",
+    "cpf": "07369066657",
+    "creditCard": {
+        "number": "N1234567891011",
+        "securityNumber": "300"
+    },
+    "products": [
+        {
+            "name": "LIVRO",
+            "value": "R$ 50,00"
+        }
+    ],
+    "address": {
+        "zipCode": "30668660",
+        "street": "RUA VICENTINA MARIA FREITAS",
+        "number": "136",
+        "neighborhood": "SANTA RITA",
+        "city": "BELO HORIZONTE",
+        "state": "MINAS GERAIS"
+    }
+}
